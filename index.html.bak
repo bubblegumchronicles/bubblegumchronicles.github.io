@@ -2,6 +2,8 @@
 
 <html>
 <head>
+	<meta charset="utf-8">
+	< meta name="about" content="Someone who enjoys taking roadtrips around Lithuania and taking pictures of nature. I want to share them with you!">
 	<title>bubblegumchronicles</title>
 	<link rel="stylesheet" href="style.css"
 </head>
@@ -16,7 +18,7 @@
 						<li><a herf="#">Welcome!</a></li>
 						<li><a herf="#">About</a></li>
 						<li><a herf="#">Personality</a></li>
-						<li><a herf="#">Pictures</a></li>
+						<li><a herf="#">Hobbies</a></li>
 						</ul>
 					</div>
 					<div class="left">
@@ -73,24 +75,5 @@
 			</div>
 		</div>
 	</article/>
-	
-<!--article3-->
-
-	<article class="article-3"
-		<div class="center">
-			<nav>
-				<h2>Pictures</h2>
-			</nav>
-				<div class="image">
-					<img class="image">
-						<img src="1.jpeg">
-						<img src="2.jpeg">
-						<img src="3.jpeg">
-						<img src="4.jpeg">
-						<img src="5.jpeg">
-						<img src="6.jpeg">
-				</div>
-		</div>
-	</article>
 </body>
 </html>
