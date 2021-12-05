@@ -19,7 +19,7 @@
   <section >
     <div id="intro">
     <img id="my_pic" src="./img/my_pic.jpg" alt="">
-    <p>Welcome! I am Egle, and I have been wanting to make some fun content of my cat for years now, yet always not knowing what platform to use. Since now my cat will have her own website, stay tuned for project in future. And if i won't make anything of it, you can still check Tiche out on my homepage. </p>
+    <p>Welcome! I am Egle, and I have been wanting to make some fun content of my cat for years now, yet always not knowing what platform to use. Since now my cat will be able to have her own website, stay tuned for project in future. And if i won't make anything of it, you can still check Tiche out on my homepage. </p>
     </div>
     <a href="./contact.html"><button id="contact_me_btn">Contact Me</button></a>
 

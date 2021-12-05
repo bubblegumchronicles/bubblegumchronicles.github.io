@@ -10,6 +10,7 @@
 </head>
 
 <body>
+  
   <header id="header">
     <nav>
       <a href="./index.html">Home</a>
@@ -18,15 +19,26 @@
       <a href="./contact.html">Contact</a>
     </nav>
     </header>
-    <section>
-      <div id="intro">
-        <img id="my_pic" src="./img/my_pic.jpg" alt="">
-        <p> In future you will find all the newest information about my projects here, however, for now, just contact me if you have some ideas to share with me! </p>
+    <h1 id="project-header">Projects</h1>
+    <section id ="project-img">
+      <div>
+        <img src="./img/dp1.jpg" alt="">
+        <p>Project -1 </p>
       </div>
-      <a href="./contact.html"><button id="contact_me_btn" style="display: block;">Contact Me</button></a>
-    
+      <div>
+        <img src="./img/dp2.jpg" alt="">
+        <p>Project -2 </p>
+      </div>
+      <div>
+        <img src="./img/dp3.jpg" alt="">
+        <p>Project -3 </p>
+      </div>
+      <div>
+        <img src="./img/dp4.jpg" alt="">
+        <p>Project -4 </p>
+      </div>
     </section>
-    
+    <a href="./contact.html"><button id="contact_me_btn">Contact Me</button></a>
     <footer id="footer">
       <p>Eglė Karbauskaitė</p>
       <a href="mailto:ekarbau15@students.lcc.lt">Email</a>

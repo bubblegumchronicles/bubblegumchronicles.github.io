@@ -21,7 +21,7 @@
     <section>
       <div id="intro">
         <img id="my_pic" src="./img/my_pic.jpg" alt="">
-        <p> In future you will find all the newest information about my projects here, however, for now, just contact me if you have some ideas to share with me! </p>
+        <p> In future you will find all the newest information about my projects here, however, for now, just contact me if you have some ideas to share woth me! </p>
       </div>
       <a href="./contact.html"><button id="contact_me_btn" style="display: block;">Contact Me</button></a>
     
